@@ -1,21 +1,29 @@
 ---
-author: Dishit Dhanesha
-date: 2026-08-12
-description: A technical guide to mapping the six AWS Well-Architected
-  Framework pillars to production-grade Generative AI workloads,
-  including RAG, Amazon Bedrock, security, observability, reliability,
-  performance, cost, and sustainability — with worked cost/latency
-  examples and honest tradeoffs between pillars.
+title: "AWS Well-Architected Generative AI: Designing Production-Ready GenAI Applications"
+description: "Learn how to design a Well-Architected Generative AI application on AWS by mapping the six AWS Well-Architected pillars to Amazon Bedrock, RAG, security, reliability, performance, cost, and sustainability."
+slug: "aws-well-architected-generative-ai"
+date: "2026-08-12"
+lastUpdated: "2026-08-12"
+author: "Dishit Dhanesha"
+category: "AWS Architecture"
 tags:
-- AWS
-- Generative AI
-- Amazon Bedrock
-- AWS Well-Architected
-- Cloud Architecture
-- RAG
-- AI Engineering
-- Solutions Architecture
-title: Designing a Well-Architected Generative AI Application on AWS
+  - AWS
+  - Generative AI
+  - AWS Well-Architected Framework
+  - Amazon Bedrock
+  - RAG
+  - Cloud Architecture
+  - AWS Solutions Architect
+keywords:
+  - AWS Well-Architected Generative AI
+  - Generative AI architecture on AWS
+  - AWS GenAI architecture
+  - Amazon Bedrock architecture
+  - AWS Generative AI Lens
+  - RAG architecture AWS
+canonical: "https://dishit.royalegroup.io/blog/aws-well-architected-generative-ai"
+image: "/images/blog/aws-well-architected-generative-ai.png"
+imageAlt: "AWS Well-Architected Generative AI application architecture with Amazon Bedrock and RAG"
 ---
 
 # Designing a Well-Architected Generative AI Application on AWS
