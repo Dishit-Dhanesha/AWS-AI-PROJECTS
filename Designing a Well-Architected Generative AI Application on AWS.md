@@ -1,7 +1,8 @@
 ---
-title: "AWS Well-Architected Generative AI: Designing Production-Ready GenAI Applications"
-description: "Learn how to design a Well-Architected Generative AI application on AWS by mapping the six AWS Well-Architected pillars to Amazon Bedrock, RAG, security, reliability, performance, cost, and sustainability."
-slug: "aws-well-architected-generative-ai"
+title: "AWS Well-Architected Generative AI Architecture: Design Production-Ready GenAI Applications"
+description: "Learn how to design production-ready AWS Well-Architected Generative AI applications using Amazon Bedrock, RAG, security, reliability, performance efficiency, cost optimization, and sustainability."
+slug: "aws-well-architected-generative-ai-architecture"
+excerpt: "A practical AWS GenAI architecture guide showing how to apply the Well-Architected Framework and Generative AI Lens to Bedrock, RAG, security, reliability, performance, cost, and sustainability."
 date: "2026-08-12"
 lastUpdated: "2026-08-12"
 author: "Dishit Dhanesha"
@@ -15,18 +16,28 @@ tags:
   - Cloud Architecture
   - AWS Solutions Architect
 keywords:
-  - AWS Well-Architected Generative AI
-  - Generative AI architecture on AWS
+  - AWS Well-Architected Generative AI Architecture
   - AWS GenAI architecture
   - Amazon Bedrock architecture
+  - RAG on AWS
   - AWS Generative AI Lens
-  - RAG architecture AWS
-canonical: "https://dishit.royalegroup.io/blog/aws-well-architected-generative-ai"
+  - Well-Architected GenAI
+canonical: "https://dishit.royalegroup.io/blog/aws-well-architected-generative-ai-architecture"
 image: "/images/blog/aws-well-architected-generative-ai.png"
 imageAlt: "AWS Well-Architected Generative AI application architecture with Amazon Bedrock and RAG"
 ---
 
 # Designing a Well-Architected Generative AI Application on AWS
+
+Designing a Well-Architected Generative AI architecture on AWS means aligning the AWS Well-Architected Framework and Generative AI Lens with Amazon Bedrock, RAG, security, reliability, performance efficiency, cost optimization, and sustainability.
+
+This guide shows how to build an AWS GenAI architecture that is secure, scalable, and production-ready. It covers the six Well-Architected pillars in the context of Generative AI, explains how Amazon Bedrock and RAG fit into the solution, and provides practical guidance for enterprise workloads.
+
+What you'll learn:
+
+- How to apply the AWS Well-Architected Framework to Generative AI workloads.
+- How to design an AWS GenAI architecture using Amazon Bedrock, knowledge bases, and vector search.
+- How to balance security, reliability, performance, cost, and sustainability for production GenAI.
 
 Generative AI applications are easy to prototype and surprisingly
 difficult to operate well in production.

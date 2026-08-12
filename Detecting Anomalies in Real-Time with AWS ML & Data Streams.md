@@ -1,6 +1,32 @@
+---
+title: "AWS Real-Time Anomaly Detection with SageMaker, Kinesis, and Data Streams"
+description: "Learn how to build a real-time anomaly detection pipeline on AWS using Amazon Kinesis Data Streams, AWS Lambda, SageMaker inference, and cloud-native architecture for streaming machine learning."
+slug: "aws-real-time-anomaly-detection-ml-data-streams"
+date: "2026-08-12"
+lastUpdated: "2026-08-12"
+author: "Dishit Dhanesha"
+category: "AWS ML"
+tags:
+  - AWS
+  - Anomaly Detection
+  - Amazon Kinesis
+  - SageMaker
+  - Real-Time Analytics
+  - Data Streams
+keywords:
+  - AWS real-time anomaly detection
+  - Kinesis Data Streams anomaly detection
+  - SageMaker streaming inference
+  - AWS ML anomaly detection pipeline
+  - real-time AWS data analytics
+canonical: "https://dishit.royalegroup.io/blog/aws-real-time-anomaly-detection"
+image: "/images/blog/aws-real-time-anomaly-detection.png"
+imageAlt: "AWS real-time anomaly detection architecture with Kinesis and SageMaker"
+---
+
 # ⚡ Detecting Anomalies in Real-Time with AWS ML & Data Streams
 
-This repository presents a real-time anomaly detection system built using core **AWS**, services following a standard cloud-native architecture. It supports continuous ingestion of streaming data, real-time inference through a machine learning model, and automated anomaly detection and flagging.
+This guide shows how to implement AWS real-time anomaly detection using Amazon Kinesis Data Streams, AWS Lambda, Amazon SageMaker inference, and secure cloud-native architecture. It covers streaming ingestion, synthetic anomaly dataset generation, model training, and deploying a production-ready AWS anomaly detection workflow for sensor monitoring, fraud detection, and operational intelligence.
 
 ## 🚀 Features
 

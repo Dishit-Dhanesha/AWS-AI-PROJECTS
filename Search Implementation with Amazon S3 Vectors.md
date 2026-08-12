@@ -1,4 +1,32 @@
+---
+title: "Implementing Semantic Search and RAG with Amazon S3 Vectors on AWS"
+description: "Discover how to build AWS semantic search and retrieval-augmented generation using Amazon S3 Vectors, Bedrock embeddings, and serverless vector search architecture."
+slug: "aws-s3-vectors-semantic-search-rag"
+date: "2026-08-12"
+lastUpdated: "2026-08-12"
+author: "Dishit Dhanesha"
+category: "AWS Search"
+tags:
+  - AWS
+  - Amazon S3 Vectors
+  - Semantic Search
+  - RAG
+  - Vector Search
+  - Amazon Bedrock
+keywords:
+  - Amazon S3 Vectors semantic search
+  - AWS vector search
+  - RAG with S3 Vectors
+  - Bedrock embeddings AWS
+  - serverless semantic search AWS
+canonical: "https://dishit.royalegroup.io/blog/aws-s3-vectors-semantic-search"
+image: "/images/blog/aws-s3-vectors-semantic-search.png"
+imageAlt: "Amazon S3 Vectors semantic search architecture"
+---
+
 # ⚡ Implementing Semantic Search (Vector Search) Using Amazon S3 Vectors
+
+This article explains how to implement AWS semantic search and Retrieval-Augmented Generation (RAG) with Amazon S3 Vectors. It covers creating vector buckets, generating Bedrock embeddings, storing vectors in S3, and building a serverless similarity search pipeline for AI applications.
 
 Building a Retrieval-Augmented Generation (RAG) pipeline has traditionally required dedicated and often expensive vector databases like **FAISS**, or external managed services such as **Pinecone**. Managing these solutions involves infrastructure setup, scaling, and ongoing maintenance—tasks that can be excessive and costly for many real-world applications, especially at scale.
 
