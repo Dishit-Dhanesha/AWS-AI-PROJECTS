@@ -27,6 +27,14 @@ image: "/images/blog/aws-well-architected-generative-ai.png"
 imageAlt: "AWS Well-Architected Generative AI application architecture with Amazon Bedrock and RAG"
 ---
 
+<style>
+/* Re-enable browser scrolling if a theme or layout disables it. */
+html, body, #app, #__nuxt, #nux-root {
+  overflow: auto !important;
+  height: auto !important;
+}
+</style>
+
 # Designing a Well-Architected Generative AI Application on AWS
 
 Designing a Well-Architected Generative AI architecture on AWS means aligning the AWS Well-Architected Framework and Generative AI Lens with Amazon Bedrock, RAG, security, reliability, performance efficiency, cost optimization, and sustainability.
@@ -67,8 +75,6 @@ This article presents a practical AWS architecture, maps the six Well-Architecte
 ## 1. Reference Architecture
 
 Consider an enterprise knowledge assistant that allows employees to ask questions about internal policies, technical documentation, procedures, and business information.
-
-![Typical Generative AI Application Architecture on AWS with RAG](./images/genai-architecture-extracted.webp)
 
 A representative architecture can use:
 
